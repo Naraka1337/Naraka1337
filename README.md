@@ -34,6 +34,16 @@ I value hands-on learning, practical problem solving, and continuous improvement
 
 ---
 
+<h2 align="center">🎯 Cybersecurity Platforms</h2>
+
+<p align="center">
+<a href="https://tryhackme.com/p/0xN3R3K3">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xN3R3K3.png" />
+</a>
+</p>
+
+---
+
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -47,7 +57,7 @@ I value hands-on learning, practical problem solving, and continuous improvement
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Naraka1337&theme=tokyonight&hide_border=true&show_icons=true&count_private=true"/>
