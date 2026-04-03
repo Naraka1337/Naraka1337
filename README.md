@@ -60,17 +60,3 @@ I value hands-on learning, practical problem solving, and continuous improvement
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naraka1337&theme=tokyonight&layout=compact&hide_border=true"/>
 </p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Naraka1337&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Naraka1337&icon=0&color=0"/>
-</p>
