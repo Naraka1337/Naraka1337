@@ -59,14 +59,8 @@ I value hands-on learning, practical problem solving, and continuous improvement
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Naraka1337&theme=tokyonight&hide_border=true&show_icons=true&count_private=true"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Naraka1337&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naraka1337&theme=tokyonight&layout=compact&hide_border=true"/>
-</p>
