@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me</h1>
+<h1 align="center">About Me</h1>
 
 <p align="center">
 Cybersecurity student with a balanced interest in offensive and defensive security.
